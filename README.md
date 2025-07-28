@@ -1,6 +1,4 @@
-# 🧑🏻‍🎓 About Me:
 
-A passionate Computer Science student proficient in Java, with a solid understanding of web<br>development including HTML, CSS, JavaScript.<br>Aspiring Full Stack MERN Developer.<br>Learning ML via Python Libraries.
 
 ## 🌐 Socials:
 
